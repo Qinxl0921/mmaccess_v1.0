@@ -1,0 +1,11 @@
+{
+	"ParameterType": "RealShip",
+	"ScaleRatio": 52.3,
+	"Speed": 24,
+	"TrailName": "Ship Model Resistance",
+	"VesselType": "ContainerShip",
+	"deck": "file/deck.txt",
+	"hull": "file/hull.txt",
+	"stern": "file/stern.txt",
+	"user": "zsq"
+}
